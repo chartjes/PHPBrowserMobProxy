@@ -4,7 +4,7 @@
   "description": "Library for using browsermob-proxy with PHP projects",
   "keywords": ["testing"],
   "homepage": "https://github.com/chartjes/PHPBrowserMobProxy/",
-  "license": "Apache 2",
+  "license": "Apache-2.0",
   "authors": [
       {
       "name": "Chris Hartjes",
